@@ -742,7 +742,7 @@ mode = console file
 level = info
 
 [alerting]
-enabled = true
+enabled = false
 EOGRAFANA
 
 log_info "Iniciando Grafana..."
