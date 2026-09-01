@@ -34,9 +34,8 @@ Sistema completo de monitoreo para infraestructura basado en Prometheus, Grafana
 ### 1. Descargar scripts
 
 ```bash
-wget https://tu-servidor.com/monitoring_installer.sh
-wget https://tu-servidor.com/add_monitored_server.sh
-wget https://tu-servidor.com/manage_alerts.sh
+git clone https://github.com/voztovoice/monitor_server.git
+cd monitor_server
 
 chmod +x *.sh
 ```
